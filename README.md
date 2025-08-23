@@ -7,7 +7,8 @@
 - Archivos .gbs, .ipynb, etc.
 
 ## *Último update:* 
-#### p1 y bitácora
+#### P1. Se estableció la versión final. Los cambios son menores: encabezado informativo, se removió la sección.
+#### Bitácora. 
 
 
-Última actualización pública: 23-08-2025 09:27:40 zona horaria UTC-03:00
+Última actualización pública: 23-08-2025 09:36:52 zona horaria UTC-03:00
